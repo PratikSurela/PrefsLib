@@ -5,7 +5,7 @@ import android.content.SharedPreferences;
 import android.support.annotation.NonNull;
 
 /**
- * Created by Yash on 10-May-16.
+ * Created by Pratik Surela  on 10-May-16.
  */
 public class PrefsUtil {
 
